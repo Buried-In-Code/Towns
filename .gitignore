@@ -1,0 +1,19 @@
+### Folders ###
+.gradle/
+.idea/
+.kotlin/
+.settings/
+.vscode/
+bin/
+build/
+jte-classes/
+logs/
+node_modules/
+
+### Files ###
+*.log
+.classpath
+.DS_Store
+.envrc
+.factorypath
+.project
